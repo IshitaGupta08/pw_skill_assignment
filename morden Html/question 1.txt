@@ -1,0 +1,12 @@
+List out the Feature of HTML5.
+
+1- Intro of audio and video: 
+     Audio and Video tags are the two major addition to HTML5. It allows developers to embed a video or audio on their website. HTML5 video can use CSS and CSS3 to style the video tag.
+2- Header and Footer:
+     With these new tags, there is no longer a need to identify the two elements with a <div> tag. Footer is placed at the end of the web page while Header is placed at the start of the web page. By using <header> and <footer> HTML5 elements, the browser will know what to load first and what to load later.     
+3- Nav tag:
+     The <nav> tag defines a set of navigation links. It is used for the part of an internet site that links to different pages at the website. The hyperlinks can be organized through a number of approaches.
+4- Email attribute:
+     When the input type in the form set as email, then the browser gets the instruction from the code to write a valid format email. 
+5- Placeholder Attribute:
+     The placeholder attribute specifies a short hint that describes the expected value of an input field/text area.

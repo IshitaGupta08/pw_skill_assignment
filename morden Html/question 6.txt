@@ -1,0 +1,17 @@
+List any 5 semantic tag in html along with their descriptive
+
+A semantic element clearly describes its meaning to both the browser and the developer.
+Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
+Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content.
+
+1- <section> Element
+     The <section> element defines a section in a document.
+2- <article> Element
+     The <article> element specifies independent, self-contained content.
+     An article should make sense on its own, and it should be possible to distribute it independently from the rest of the web site.
+3- <header> Element
+     The <header> element represents a container for introductory content or a set of navigational links.
+4- <footer> Element
+     The <footer> element defines a footer for a document or section.
+5- <nav> Element
+     The <nav> element defines a set of navigation links.

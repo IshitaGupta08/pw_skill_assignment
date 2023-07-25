@@ -1,0 +1,9 @@
+What are HTMl Entities. List out 5 common used HTML Entities.
+
+HTML entities are the reserved characters that are used in the HTML document. They are not present in your standard keyboard. They provide a wide range of characters, allowing you to add icons, geometric shapes, mathematical operators, and so on.
+5 common HTML Entities -
+1-  © copyright	
+2-  ® registered trademark
+3-  " double quotation mark	
+4-  ' single quotation mark 
+5-  < less than

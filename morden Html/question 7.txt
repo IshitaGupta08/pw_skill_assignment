@@ -1,0 +1,8 @@
+what are the benefits of using semantic tags in html
+
+1- Accessibility
+     In addition to creating markup that is human-readable, semantic code also makes the markup better understandable to machines. Which in turn, can make your content accessible to users that cannot read.
+2- Maintainability
+     Maintainability is one of the critical factors in writing good, high-quality code. It’s an aspect of coding that should always be at the forefront of a developer’s mind.
+3- SEO
+     The final reason why semantic HTML is so important is for SEO purposes. SEO (Search Engine Optimization) is the process of enhancing your website to increase its visibility to search engines. 
